@@ -6,7 +6,6 @@
 
 import json
 from cgi import escape
-impore re
 
 
 class Topping(object):
